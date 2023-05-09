@@ -1,0 +1,6 @@
+- cac phan can coi ki: 
+    - flex-box, 
+    - display: inline, inline-block, block....
+    -     position:  absolute, relative... 
+
+- lam lai giao dien voi bootstrap 5.3    
